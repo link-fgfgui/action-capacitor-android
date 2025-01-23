@@ -1,7 +1,7 @@
 {
-  "appId": "com.fgfgui.metacubexd",
-  "appName": "PANEL",
-  "webDir": "metacubexd-gh-pages",
+  "appId": "com.fgfgui.yacd",
+  "appName": "PANEL-Y",
+  "webDir": "Yacd-meta-gh-pages",
   "server": {
     "androidScheme": "http"
   },
