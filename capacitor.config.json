@@ -1,7 +1,7 @@
 {
-  "appId": "com.fgfgui.metacubexd",
-  "appName": "PANEL",
-  "webDir": "metacubexd-gh-pages",
+  "appId": "com.fgfgui.zash",
+  "appName": "PANEL-Z",
+  "webDir": "dist",
   "server": {
     "androidScheme": "http"
   },
